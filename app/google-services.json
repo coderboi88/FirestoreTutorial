@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "439125901665",
+    "project_id": "cloud-firestore-example-ca7aa",
+    "storage_bucket": "cloud-firestore-example-ca7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439125901665:android:7af0cc429b783373de4520",
+        "android_client_info": {
+          "package_name": "com.aditya.cloudfirestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439125901665-787771on045p8qs247pdev9o4va7nbj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.cloudfirestoreexample",
+            "certificate_hash": "1337682b7b3923bbcd0663ea2845276da441e219"
+          }
+        },
+        {
+          "client_id": "439125901665-1cv13t4amni16va8e8ihklf2p2ftv3qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_TegxyMm4k6QkGmI1b8DcirwlviHtTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439125901665-1cv13t4amni16va8e8ihklf2p2ftv3qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
